@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+env/
+.venv/
+
+# Large Datasets & Archives
+data/
+*.zip
+*.tar.gz
+
+# Pretrained PyTorch & TorchXRayVision Weights
+*.pt
+*.pth
+.torchxrayvision/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
